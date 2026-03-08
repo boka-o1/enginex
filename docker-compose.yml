@@ -1,0 +1,10 @@
+include:
+  - ../db/docker-compose.yml
+  - ../gateway/docker-compose.yml
+  - ../monitor/docker-compose.yml
+  - ../backup/docker-compose.yml
+  - ../dashboard/docker-compose.yml
+  - ../seo/docker-compose.yml
+  - ../ranktracker/docker-compose.yml
+  - ../analytics/docker-compose.yml
+  - ../auth/docker-compose.yml
